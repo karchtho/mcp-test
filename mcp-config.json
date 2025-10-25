@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cours-mcp": {
+      "command": "python3",
+      "args": ["/home/ubuntu/cours-mcp/server.py"],
+      "env": {
+        "PATH": "/home/ubuntu/cours-mcp/venv/bin:/usr/bin:/bin"
+      }
+    }
+  }
+}

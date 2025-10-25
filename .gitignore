@@ -1,0 +1,45 @@
+# Configuration files with secrets
+config.py
+*.env
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Uploads and data
+uploads/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.tgz
+*.tar.gz
+*.zip
+
+# Temporary files
+*.tmp
+.cache/
